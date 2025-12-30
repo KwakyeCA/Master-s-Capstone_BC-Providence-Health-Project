@@ -97,11 +97,11 @@ The analytical workflow follows a structured regression modeling pipeline:
 ---
 
 ## Project Status
-Completed as part of an academic data analytics project, with scope for extension into operational healthcare analytics.
+Completed as part of an academic data analytics project (Capstone), with scope for extension into operational healthcare analytics.
 
 ---
 
-## Author
+## Co-Author
 **Cosmos Ameyaw Kwakye**  
 Master’s Student – Data Analytics Engineering  
 Focus Areas: Applied Regression, Performance Analytics, Healthcare Analytics
