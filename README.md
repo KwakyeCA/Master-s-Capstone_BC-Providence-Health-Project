@@ -1,4 +1,4 @@
-## Emergency Department Admission Forecasting
+## Emergency Department Admission Forecasting ##
 
 A machine learning system for predicting daily emergency department admissions at Mount Saint Joseph Hospital using temporal patterns, clinical data, and external factors.
 
